@@ -21,7 +21,7 @@ In this repository, we publish,
 
 ---
 
-## Class Distribution of Clue Phrases
+### Class Distribution of Clue Phrases
 | **Clue phrase** | **\# in Pos.** | **\# in Neg.** | **% in Pos.** | **% in Neg.** | **% in TRCD** |
 | :-------------- | :------------: | :------------: | :-----------: | :-----------: | :-----------: |
 | -sA             | 22             | 571            | 3\.44         | 13\.1         | 11\.86        |
