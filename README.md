@@ -1,5 +1,7 @@
 # Recognition of Counterfactual Statements in Turkish
 
+`NOTE: This repository is a part of a project which has an article submission under review at the moment.`
+
 We have studied counterfactual statement recognition as a sentence-level binary classification problem in the Turkish language. 
 
 In this repository, we publish, 
