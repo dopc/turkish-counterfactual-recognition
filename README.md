@@ -1,6 +1,6 @@
 # Recognition of Counterfactual Statements in Turkish
 
-`NOTE: This repository is a part of a project which has an article submission under review at the moment.`
+_Ali Acar and Selma Tekir. 2024. Recognition of Counterfactual Statements in Turkish. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (November 2024). https://doi.org/10.1145/3706105_
 
 We have studied counterfactual statement recognition as a sentence-level binary classification problem in the Turkish language. 
 
@@ -37,3 +37,22 @@ In this repository, we publish,
 | -AymIş          | 16             | 2              | 2\.5          | 0\.05         | 0\.36         |
 | -AcAkDI         | 3              | 13             | 0\.47         | 0\.3          | 0\.32         |
 | **Total**       | 615            | 1885           | 96\.1         | 43\.2         | 50\.0         |
+
+## Cite
+Please cite the paper, if you use this dataset.
+```
+@article{10.1145/3706105,
+author = {Acar, Ali and Tekir, Selma},
+title = {Recognition of Counterfactual Statements in Turkish},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2375-4699},
+url = {https://doi.org/10.1145/3706105},
+doi = {10.1145/3706105},
+note = {Just Accepted},
+journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+month = nov,
+keywords = {Turkish, corpus, counterfactual detection, multilingual transformers, BERTurk}
+}
+```
