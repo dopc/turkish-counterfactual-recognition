@@ -1,6 +1,6 @@
 # Recognition of Counterfactual Statements in Turkish
 
-_Ali Acar and Selma Tekir. 2024. Recognition of Counterfactual Statements in Turkish. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (November 2024). https://doi.org/10.1145/3706105_
+_Ali Acar and Selma Tekir. 2025. Recognition of Counterfactual Statements in Turkish. ACM Trans. Asian Low-Resour. Lang. Inf. Process. 24, 1, Article 6 (January 2025), 26 pages. https://doi.org/10.1145/3706105_
 
 We have studied counterfactual statement recognition as a sentence-level binary classification problem in the Turkish language. 
 
